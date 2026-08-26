@@ -1,5 +1,9 @@
 <div align="center">
 
+![hero-1](docs/images/hero-1.png)
+
+![hero-2](docs/images/hero-2.png)
+
 ![new-api](/web/public/logo.png)
 
 # New API
